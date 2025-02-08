@@ -1,5 +1,5 @@
 # STEM-Girl
-this is a personal space to store the learning notes and excercises that I was doing when explore LLM, ML and data analysis techniques.
+this is a personal space to store learning notes and excercises I did when exploringLLM, ML and data analysis techniques.
 
 Spent most of my time in undergraduate education on Economics, finally I realize doing trade and finance are really not my thing.     
 
